@@ -10,8 +10,8 @@ env:
   ###############################################
   ### Replace username with GitHub username ###
   ###############################################
-  DOCKER_IMAGE_NAME: SyafiqRapngai-Dev-azure-ttt
-  AZURE_WEBAPP_NAME: SyafiqRapngai-Dev-ttt-app
+  DOCKER_IMAGE_NAME: syafiqrapngai-dev-azure-ttt
+  AZURE_WEBAPP_NAME: syafiqrapngai-dev-ttt-app
   ###############################################
 
 jobs:
